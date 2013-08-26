@@ -1,0 +1,11 @@
+*.csv
+*.png
+*.ps
+*.pdf
+*.tar.bz2
+*.ods
+data/
+data-archiv/
+grafy/
+grafy-png/
+Vyhodnoceni/
